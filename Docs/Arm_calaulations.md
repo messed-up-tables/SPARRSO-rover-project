@@ -14,5 +14,5 @@ distance between shoulder and actuator links $d_s$
 humerus length $h$  
 humerus actuator length (retracted) $h_r$  
 humerus actuator length (extended) $h_e$  
-shoulder angle (retracted) $\cos(\alpha) = \frac{d_s^2+h^2-h_r^2}{2 d_s h}$  
-shoulder angle (extended) $\cos(\beta) = \frac{d_s^2+h^2-h_e^2}{2 d_s h}$  
+shoulder angle (retracted) $\cos(\alpha) =(d_s^2+h^2-h_r^2)/(2 d_s h)$  
+shoulder angle (extended) $\cos(\beta) = (d_s^2+h^2-h_e^2)/(2 d_s h)$  
