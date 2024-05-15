@@ -9,7 +9,7 @@ Electronic Parts
 >> Converters  
 
 Mechanical Parts  
-> Fastners 
+> Fastners (8L)
 >> M3 (200mL / 550mL)  
 >> M5  
 >> 
@@ -40,8 +40,8 @@ Electric Hardware
 >
 > Wires
 
-Workplace Tools 
-> Stationary  (15L/8L)
+Workplace Tools (50L)
+> Stationary  (8L)
 >> Adhesives  
 >> Tapes  
 >>> Scotch tape  
@@ -51,25 +51,36 @@ Workplace Tools
 >> Markers
 >> Glue gun and Stick 
 >
-> Hand Tools (30L)
+> Hand Tools (8L)
 >> Wire cutter
 >> Anti Cutters
 >> Pliers  
 >> Wrench  
->> Slide Calipers  
->> Weighing Machine  
+>> Slide Calipers   
 >> Mallet  
 
 
-# Box Size References
-
-- Cargo Box 120L : 73 x 53 x 43
-  - Cargo box 15L : 45 x 27 x 21
-    - Fresco 550mL : 12 x 12 x 8
-- Cargo Box 80L : 66 x 47 x 38
-  - Cargo box 8L : 40 x 21 x 17
-    - Fresco 710mL : 16 x 12 x 8
-    - Trim 1000mL : 18 x 13 x 8
-    - Trim 200mL : 8 x 8 x 6
-- Cargo Box 50 L : 58 x 40 x 32
-- Cargo Box 30 L : 55 x 33 x 27
+# Box Size References 
+! All units in cm
+- Cargo Box
+  - 120L : 73 x 53 x 43  
+  - 80L  : 66 x 47 x 38
+  - 50 L : 58 x 40 x 32
+  - 30 L : 55 x 33 x 27
+  - 15L  : 45 x 27 x 21
+  - 8L   : 40 x 21 x 17
+- Trim Container
+  - 200mL : 8 x 8 x 6
+  - 300mL
+  - 600mL
+  - 1000mL : 18 x 13 x 8
+  - 2500mL : 25 x 18 x 7.5
+  - 3500mL
+  - 4500mL
+  - 6000mL
+  - 8500mL : 25 x 24 x 23   
+- Caino Laundry Basket
+  - Small  : 44 x 34 x 50
+  - Medium : 44 x 34 x 55
+  - Big    : 45 x 34 x 60 
+- Flexible Tub (for failed prints)
