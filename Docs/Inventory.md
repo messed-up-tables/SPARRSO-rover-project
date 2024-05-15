@@ -10,7 +10,7 @@ Electronic Parts
 
 Mechanical Parts  
 > Fastners 
->> M3  
+>> M3 (200mL / 550mL)  
 >> M5  
 >> 
 >
@@ -59,4 +59,17 @@ Workplace Tools
 >> Slide Calipers  
 >> Weighing Machine  
 >> Mallet  
->> 
+
+
+# Box Size References
+
+- Cargo Box 120L : 73 x 53 x 43
+  - Cargo box 15L : 45 x 27 x 21
+    - Fresco 550mL : 12 x 12 x 8
+- Cargo Box 80L : 66 x 47 x 38
+  - Cargo box 8L : 40 x 21 x 17
+    - Fresco 710mL : 16 x 12 x 8
+    - Trim 1000mL : 18 x 13 x 8
+    - Trim 200mL : 8 x 8 x 6
+- Cargo Box 50 L : 58 x 40 x 32
+- Cargo Box 30 L : 55 x 33 x 27
