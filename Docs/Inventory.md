@@ -27,7 +27,7 @@ Mechanical Parts
 > Misc  
 
 Electric Hardware  
-> Connectors  
+> Connectors (8L)  
 >> XT60  
 >> XT30  
 >> Header Rails  
@@ -42,7 +42,7 @@ Electric Hardware
 > 
 > Wires (8.5L)
 
-Workplace Tools (50L)
+Workplace Tools (80L)
 > Stationary  (8L)
 >> Adhesives  
 >> Tapes  
