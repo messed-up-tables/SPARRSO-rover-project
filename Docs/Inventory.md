@@ -40,12 +40,23 @@ Electric Hardware
 >
 > Wires
 
-Workplace Tools
-> Adhesive
+Workplace Tools 
+> Stationary  (15L/8L)
+>> Adhesives  
+>> Tapes  
+>>> Scotch tape  
+>>> Double sided tape  
+>>> tape dispenser  
+>>
+>> Markers
+>> Glue gun and Stick 
 >
-> Stationary
->
-> Tools
->> Wire cutter  
+> Hand Tools (30L)
+>> Wire cutter
+>> Anti Cutters
 >> Pliers  
->> Wrench    
+>> Wrench  
+>> Slide Calipers  
+>> Weighing Machine  
+>> Mallet  
+>> 
