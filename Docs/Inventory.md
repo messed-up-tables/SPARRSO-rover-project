@@ -10,8 +10,8 @@ Electronic Parts
 
 Mechanical Parts  
 > Fastners 
->> M3
->> M5
+>> M3  
+>> M5  
 >> 
 >
 > Bearings  
@@ -21,22 +21,22 @@ Mechanical Parts
 > Gears & Transmission  
 >> GT2 Timing Belt   
 >> GT2 Pulley  
->> GT2 Idler
->> Pulley Wheel  
+>> GT2 Idler  
+>> Pulley Wheel   
 > 
 > Misc  
 
 Electric Hardware  
 > Connectors  
->> XT60
->> XT30
->> Header Rails
+>> XT60  
+>> XT30  
+>> Header Rails  
 > 
-> Cable Management
+> Cable Management  
 >> Zip ties  
 >> Drag Chain   
->> Wire Mesh Sleeve  
->> Heat Shrink Tubes  
+>> Wire Mesh Sleeve    
+>> Heat Shrink Tubes   
 >
 > Wires
 
@@ -46,6 +46,6 @@ Workplace Tools
 > Stationary
 >
 > Tools
->> Wire cutter
->> Pliers
->> Wrench  
+>> Wire cutter  
+>> Pliers  
+>> Wrench    
