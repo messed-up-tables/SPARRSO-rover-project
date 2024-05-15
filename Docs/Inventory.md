@@ -8,11 +8,44 @@ Electronic Parts
 >> Sensors  
 >> Converters  
 
-Mechanical Parts
+Mechanical Parts  
 > Fastners 
->> Screws 
->>> M3 
->>> M5 
-> Bearings 
->> Ball Bearing 
->> Linear Bearing 
+>> M3
+>> M5
+>> 
+>
+> Bearings  
+>> Ball Bearing / Thrust Bearing  
+>> Linear Bearing  
+>
+> Gears & Transmission  
+>> GT2 Timing Belt   
+>> GT2 Pulley  
+>> GT2 Idler
+>> Pulley Wheel  
+> 
+> Misc  
+
+Electric Hardware  
+> Connectors  
+>> XT60
+>> XT30
+>> Header Rails
+> 
+> Cable Management
+>> Zip ties  
+>> Drag Chain   
+>> Wire Mesh Sleeve  
+>> Heat Shrink Tubes  
+>
+> Wires
+
+Workplace Tools
+> Adhesive
+>
+> Stationary
+>
+> Tools
+>> Wire cutter
+>> Pliers
+>> Wrench  
