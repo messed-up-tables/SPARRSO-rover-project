@@ -2,7 +2,8 @@
 Electronic Parts
 > Generic Components  
 >> Resistors  
->> Capacitors  
+>> Capacitors
+>
 > Modules  
 >> Sensors  
 >> Converters  
