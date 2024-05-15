@@ -38,7 +38,9 @@ Electric Hardware
 >> Wire Mesh Sleeve    
 >> Heat Shrink Tubes   
 >
-> Wires
+> Soldering tools (8L)
+> 
+> Wires (8.5L)
 
 Workplace Tools (50L)
 > Stationary  (8L)
@@ -61,7 +63,10 @@ Workplace Tools (50L)
 
 
 # Box Size References 
-! All units in cm
+
+> [!NOTE]
+> All units in cm
+
 - Cargo Box
   - 120L : 73 x 53 x 43  
   - 80L  : 66 x 47 x 38
@@ -78,7 +83,10 @@ Workplace Tools (50L)
   - 3500mL
   - 4500mL
   - 6000mL
-  - 8500mL : 25 x 24 x 23   
+  - 8500mL : 25 x 24 x 23
+- Fresco Disposable
+  - 550mL : 12 x 12 x 8
+  - 710mL : 16 x 12 x 8   
 - Caino Laundry Basket
   - Small  : 44 x 34 x 50
   - Medium : 44 x 34 x 55
